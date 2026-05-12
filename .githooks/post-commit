@@ -1,0 +1,2 @@
+#!/bin/sh
+python .github/skills/audit-logging/tools/audit_log.py commit_created success "{\"commit\":\"$(git rev-parse HEAD)\"}"

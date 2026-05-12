@@ -1,0 +1,9 @@
+fastapi==0.115.0
+uvicorn[standard]==0.30.6
+pydantic==2.8.2
+requests==2.32.3
+prometheus-client==0.20.0
+sentence-transformers==3.0.1
+faiss-cpu==1.8.0.post1
+openai==1.51.2
+watchdog==4.0.2
